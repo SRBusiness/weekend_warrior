@@ -1,6 +1,8 @@
 # White-boarding problems
 
-For the actual documents with your white boarding question please make clear what the prompt is and code it out in at least one language. Either make a gist and link the gist or create a file with your code and put it in the whiteboarding_questions directory. If others have coded it out in a different language please include a link that is the title of the language you coded it in and your initial so people can know who to ask if they have questions.
+This will be a central document for us to keep track of various white boarding problems. Fill this in and do your best to be unique in your naming. 
+
+Link out to a markdown file that lives in the whiteboarding_questions directory that matches the structure of the template document provided. 
 
 | Title (link)| Description and topics covered| Week |
 | ---|---|:---:|
