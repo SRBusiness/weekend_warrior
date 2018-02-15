@@ -4,4 +4,5 @@ For the actual documents with your white boarding question please make clear wha
 
 | Title (link)| Description and topics covered| Week |
 | ---|---|:---:|
-| Nested_Brackets?| strings, brackets, stacks | Week 1 |
+| [Nested_Brackets?](https://goo.gl/RD9qbX)| strings, brackets, stacks | Week 1 |
+| - | - | - |
