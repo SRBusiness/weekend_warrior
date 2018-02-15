@@ -1,8 +1,8 @@
-# White-boarding problems
+# Whiteboarding problems
 
-This will be a central document for us to keep track of various white boarding problems. Fill this in and do your best to be unique in your naming. 
+This will be a central document for us to keep track of various white boarding problems. Fill this in and do your best to be unique in your naming.
 
-Link out to a markdown file that lives in the whiteboarding_questions directory that matches the structure of the template document provided. 
+Link out to a markdown file that lives in the whiteboarding_questions directory that matches the structure of the template document provided.
 
 | Title (link)| Description and topics covered| Week |
 | ---|---|:---:|
