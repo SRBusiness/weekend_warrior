@@ -1,9 +1,11 @@
-# weekend_warrior
+# weekend_warrior whiteboarding problems
 
-### Weekly docs
-- [Week 1](https://goo.gl/aevi3N), 2/11/18 -  Stacks, queues, linked lists, hashes, heaps
-- [Week 2](https://goo.gl/mCps1P), 2/18/18 - recursion
+This will be a central document for us to keep track of various white boarding problems. Fill this in and do your best to be unique in your naming.
 
-### Whiteboarding
-- [Whiteboarding_Qs_table](https://goo.gl/mcY19x) - central table that list all the questions we cover
--  [Repository](https://goo.gl/MY57TY) for individual whiteboard questions
+Link out to a markdown file that lives in the whiteboarding_questions directory that matches the structure of the template document provided.
+
+| Title (link)| Description and topics covered| Week |
+| ---|---|:---:|
+| [Nested_Brackets?](https://goo.gl/RD9qbX)| strings, brackets, stacks | Week 1 |
+| [Binary to Decimal using recursion](https://github.com/SRBusiness/weekend_warrior/blob/master/whiteboarding_questions/binary_to_decimal_recursion.md) | binary, decimal, recusion | week 2 |
+| - | - | - |
