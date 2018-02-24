@@ -7,4 +7,6 @@ Link out to a markdown file that lives in the whiteboarding_questions directory 
 | Title (link)| Description and topics covered| Week |
 | ---|---|:---:|
 | [Nested_Brackets?](https://goo.gl/RD9qbX)| strings, brackets, stacks | Week 1 |
+| [Binary to Decimal using recursion](https://github.com/SRBusiness/weekend_warrior/blob/master/whiteboarding_questions/binary_to_decimal_recursion.md) | binary, decimal, recusion | week 2 |
 | - | - | - |
+
