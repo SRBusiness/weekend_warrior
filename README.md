@@ -2,7 +2,7 @@
 
 This will be a central document for us to keep track of various white boarding problems. Fill this in and do your best to be unique in your naming.
 
-Link out to a markdown file that lives in the whiteboarding_questions directory that matches the structure of the [template document](https://github.com/SRBusiness/weekend_warrior/blob/master/whiteboarding_questions/template.md).
+Link out to a markdown file that lives in the [whiteboarding_questions](https://github.com/SRBusiness/weekend_warrior/tree/master/whiteboarding_questions) directory that matches the structure of the [template document](https://github.com/SRBusiness/weekend_warrior/blob/master/whiteboarding_questions/template.md).
 
 | Title (link)| Description and topics covered| Week |
 | ---|---|:---:|
